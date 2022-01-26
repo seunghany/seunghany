@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @seunghany
-- 👀 I’m interested in Data and Machine Learning
-- 🌱 I’m currently learning Statistics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Education, Communication, Online Platform, Management and Coding.
+- 🌱 I’m currently in a field of Online Education and Semi-conductor data analyst,
+- 💞️ I’m looking to collaborate on anything interesting. (Currently Online Education)
+-     If you are willing to teach someone online reach out to me.
 - 📫 How to reach me: Instagram: steviee_smile
 
 <!---
-seunghany/seunghany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
